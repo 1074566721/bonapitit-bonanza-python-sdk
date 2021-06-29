@@ -1,7 +1,7 @@
 # bonapitit-bonanza-python-sdk
 
-#### 介绍file:/D:/PythonProject/bonanza/README.md
-全网首个Python平台bonapitit  SDK
+#### 全网首个Python平台bonapitit  SDK
+
 
 # 具体使用教程
 详情还是去看 [我的博客](https://blog.csdn.net/qq_41707308/article/details/118156373) 描述吧，里面已经有很清楚的使用教程了
