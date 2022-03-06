@@ -1,6 +1,6 @@
 # bonapitit-bonanza-python-sdk
 
-## 全网首个Python平台bonapitit  SDK
+## Python平台bonapitit  SDK
 
 
 ## 具体使用教程
